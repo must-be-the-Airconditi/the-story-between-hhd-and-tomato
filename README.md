@@ -17,18 +17,32 @@ hhd，十九岁的龙会集团最高董事长，一条活了不知多少年的�
 - **主小说.txt** — 全文完
 - **番外?.txt** — 番外
 
+## 🤝 欢迎投稿
+
+我们非常欢迎任何人往这个仓库里添加自己写的关于 **hhd 与 tomato** 的文章、番外、脑洞或同人创作。
+
+投稿方式很简单：
+
+1. **Fork 本仓库**
+2. 在 `stories/` 文件夹下新建一个 `.md` 文件，文件命名格式建议为：`作者名-标题.md`
+3. 把你想写的内容放进去，风格不限，甜、虐、沙雕、日常都可以
+4. 提交 Pull Request，标题写清楚是投稿
+5. 等作者审核合并
+
+详细规则请看 [CONTRIBUTING.md](CONTRIBUTING.md)。
+
 ## 📊 Repo Status
 
-![Last Commit](https://img.shields.io/github/last-commit/OWNER/REPO)
-![Issues](https://img.shields.io/github/issues/OWNER/REPO)
-![Pull Requests](https://img.shields.io/github/issues-pr/OWNER/REPO)
-![Stars](https://img.shields.io/github/stars/OWNER/REPO?style=social)
-![Forks](https://img.shields.io/github/forks/OWNER/REPO?style=social)
+![Last Commit](https://img.shields.io/github/last-commit/must-be-the-Airconditi/the-story-between-hhd-and-tomato)
+![Issues](https://img.shields.io/github/issues/must-be-the-Airconditi/the-story-between-hhd-and-tomato)
+![Pull Requests](https://img.shields.io/github/issues-pr/must-be-the-Airconditi/the-story-between-hhd-and-tomato)
+![Stars](https://img.shields.io/github/stars/must-be-the-Airconditi/the-story-between-hhd-and-tomato?style=social)
+![Forks](https://img.shields.io/github/forks/must-be-the-Airconditi/the-story-between-hhd-and-tomato?style=social)
 
 ## ⭐ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=OWNER/REPO&type=Date)](https://star-history.com/#OWNER/REPO&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=must-be-the-Airconditi/the-story-between-hhd-and-tomato&type=Date)](https://star-history.com/#must-be-the-Airconditi/the-story-between-hhd-and-tomato&Date)
 
 ## 📄 License
 
-本项目采用 MPL-2.0 许可证，详见 [LICENSE](LICENSE) 文件。
+本项目采用 MGL-2.0 许可证，详见 [LICENSE](LICENSE) 文件。
