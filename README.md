@@ -18,15 +18,15 @@
 
 ## 📊 Repo Status
 
-![Last Commit](https://img.shields.io/github/last-commit/must-be-the-Airconditi/the-story-between-hhd-and-tomato)
-![Issues](https://img.shields.io/github/issues/must-be-the-Airconditi/the-story-between-hhd-and-tomato)
-![Pull Requests](https://img.shields.io/github/issues-pr/must-be-the-Airconditi/the-story-between-hhd-and-tomato)
-![Stars](https://img.shields.io/github/stars/must-be-the-Airconditi/the-story-between-hhd-and-tomato?style=social)
-![Forks](https://img.shields.io/github/forks/must-be-the-Airconditi/the-story-between-hhd-and-tomato?style=social)
+![Last Commit](https://img.shields.io/github/last-commit/must-be-the-Airconditi/the-story-by-NPC)
+![Issues](https://img.shields.io/github/issues/must-be-the-Airconditi/the-story-by-NPC)
+![Pull Requests](https://img.shields.io/github/issues-pr/must-be-the-Airconditi/the-story-by-NPC)
+![Stars](https://img.shields.io/github/stars/must-be-the-Airconditi/the-story-by-NPC?style=social)
+![Forks](https://img.shields.io/github/forks/must-be-the-Airconditi/the-story-by-NPC?style=social)
 
 ## ⭐ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=must-be-the-Airconditi/the-story-between-hhd-and-tomato&type=Date)](https://star-history.com/#must-be-the-Airconditi/the-story-between-hhd-and-tomato&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=must-be-the-Airconditi/the-story-by-NPC&type=Date)](https://star-history.com/#must-be-the-Airconditi/the-story-by-NPC&Date)
 
 ## 📄 License
 
