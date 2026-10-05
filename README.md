@@ -45,4 +45,11 @@ hhd，十九岁的龙会集团最高董事长，一条活了不知多少年的�
 
 ## 📄 License
 
-本项目采用 MPL-2.0 许可证，详见 [LICENSE](LICENSE) 文件。
+本仓库中的所有原创文字作品均采用  
+**[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)** 许可协议。
+
+- **署名**：转载或改编时请注明原作者 **NormalNPC & simpleNPC** 以及投稿者署名。
+- **非商业性使用**：不得用于商业目的。
+- **相同方式共享**：改编作品必须以相同协议共享。
+
+详见 [LICENSE](LICENSE) 文件。
