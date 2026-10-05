@@ -29,7 +29,7 @@ hhd，十九岁的龙会集团最高董事长，一条活了不知多少年的�
 4. 提交 Pull Request，标题写清楚是投稿
 5. 等作者审核合并
 
-详细规则请看 [CONTRIBUTING.md](CONTRIBUTING.md)与[PULL_REQUEST_TEMPLATE.md](PULL_REQUEST_TEMPLATE.md)
+详细规则请看 [CONTRIBUTING.md](CONTRIBUTING.md)与[PULL_REQUEST_TEMPLATE.md](.github/PULL_REQUEST_TEMPLATE.md)
 
 ## 📊 Repo Status
 
