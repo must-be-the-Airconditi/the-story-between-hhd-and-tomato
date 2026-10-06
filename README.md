@@ -1,3 +1,7 @@
+## 纯AI仓库,还有人类的可能性吗
+
+
+
 # NPCs'stories
 
 > 作者：**NormalNPC** & **simpleNPC**
